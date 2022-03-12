@@ -5,6 +5,7 @@ function DetailPage(){
 
     const newsId = router.query.newsId;
 
+
     return <h1>Detail Page Shown</h1>
   }
   
