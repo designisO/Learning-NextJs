@@ -10,11 +10,11 @@ In this project I was able to learn about the awesome framework of Nextjs.
 - Fullstack Capablities: Easily add backend server side code to your Next/React apps. Storing, getting and authentication data. can be added to your React project.
 
 ### Special Hooks Learned
-import { useRouter } from 'next/router;
+import { useRouter } from 'next/router; (https://nextjs.org/docs/api-reference/next/router)
 
-import { Fragment } from 'react';
+import { Fragment } from 'react'; (https://reactjs.org/docs/fragments.html)
 
-import Link from 'next/link'; 
+import Link from 'next/link'; (https://nextjs.org/docs/api-reference/next/link)
 
 
 ### File-based system notes:
