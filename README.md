@@ -1,5 +1,5 @@
 ## Learning Next JS
-In this project I was able to learn about the awesome framework of Nextjs.
+In this project I was able to learn about the awesome framework of Nextjs. I wanted to learn how to create a dApps in the Web3 space while using a react framework.
 
 ### Key Features Learned of Nextjs
 
