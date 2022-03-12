@@ -1,5 +1,5 @@
 ## Learning Next JS
-In this project I was able to learn about the awesome framework of Nextjs. I wanted to learn how to create a dApps in the Web3 space while using a react framework.
+In this project I was able to learn about the awesome framework of Nextjs. Here's what was covered in this repo. 
 
 ### Key Features Learned of Nextjs
 
@@ -9,7 +9,8 @@ In this project I was able to learn about the awesome framework of Nextjs. I wan
 
 - Fullstack Capablities: Easily add backend server side code to your Next/React apps. Storing, getting and authentication data. can be added to your React project.
 
-### Special Hooks Learned
+### Special Hooks Learned:
+
 import { useRouter } from 'next/router; (https://nextjs.org/docs/api-reference/next/router)
 
 import { Fragment } from 'react'; (https://reactjs.org/docs/fragments.html)
@@ -18,6 +19,7 @@ import Link from 'next/link'; (https://nextjs.org/docs/api-reference/next/link)
 
 
 ### File-based system notes:
+
 - Nested Files: )(https://nextjs.org/docs/routing/introduction)
 - Dynamic Pathing: (https://nextjs.org/docs/routing/dynamic-routes)
     *ie: [newsId].js
