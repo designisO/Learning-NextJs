@@ -18,8 +18,8 @@ import Link from 'next/link'; (https://nextjs.org/docs/api-reference/next/link)
 
 
 ### File-based system notes:
-- Nested Files: 
-- Dynamic Pathing:
+- Nested Files: )(https://nextjs.org/docs/routing/introduction)
+- Dynamic Pathing: (https://nextjs.org/docs/routing/dynamic-routes)
     *ie: [newsId].js
 
 ### Usage
